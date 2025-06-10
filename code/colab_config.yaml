@@ -1,0 +1,9 @@
+# Train/val/test datsets
+path:  "/content/drive/MyDrive/Colab Notebooks/Deep Learning and Artificial Intelligence/data/" # root dir
+train: images/train # train images
+val:   images/train # val images
+test:  images/test # test images
+
+# Classes
+names:
+  0: human
